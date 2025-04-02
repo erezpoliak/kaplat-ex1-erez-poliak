@@ -1,2 +1,3 @@
 a.txt creation
 Another line of text
+edited another line
